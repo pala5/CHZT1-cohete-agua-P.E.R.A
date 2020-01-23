@@ -5,6 +5,10 @@ with plastic bottles, we also have included few electronical devices to record t
 electro-mechanical devices, we activate the security system landing, parachute  system.
 
 --- LINKS ---
+Material's list: https://drive.google.com/file/d/1GTz8rj8xaQIpHIr3lQM5PNJ4Q3cBkDFH/view?usp=sharing
+
 P.E.R.A: https://www.ponentaerospace.com/2019/08/presentacion-proyecto-pera-spi-off-de.html
 
 Liquid Galaxy Lab: https://www.liquidgalaxylab.com/2019/09/pera-siglas-de-ponent-exploration-and.html
+
+RaketfuedRockets: http://www.raketfuedrockets.com/en/
