@@ -6,6 +6,7 @@ electro-mechanical devices, we activate the security system landing, parachute  
 In the following links you will find the material's list, the P.E.R.A iniciative purpose and the webpage of "RaketfuedRockets", whom have developed many water rockets and they have an excellent construction guide, step by step.
 
 --- LINKS ---
+
 Material's list: https://drive.google.com/file/d/1GTz8rj8xaQIpHIr3lQM5PNJ4Q3cBkDFH/view?usp=sharing
 
 P.E.R.A: https://www.ponentaerospace.com/2019/08/presentacion-proyecto-pera-spi-off-de.html
